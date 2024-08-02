@@ -1,0 +1,6 @@
+build/
+qemu-build/
+.vscode/
+*.old
+.venv/
+__pycache__/
