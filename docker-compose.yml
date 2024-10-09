@@ -1,5 +1,5 @@
 services:
   physim:
-    build: ../tpp-physim # https://github.com/sportelliluciano/tpp-physim.git
+    build: https://github.com/sportelliluciano/tpp-physim.git
     ports:
       - 13013:13013
